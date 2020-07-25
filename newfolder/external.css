@@ -1,0 +1,20 @@
+.color{
+  width: 100%;
+  background-color: #c7b198;
+}
+.middle{
+ text-align: center;
+ background-color: #84a9ac;
+}
+hr{
+  border-style: dotted none none;
+  width: 25%;
+}
+body{
+  background-color: #f0ece3;
+font-size:100%;
+font-style: italic;
+}
+h1{
+  color: #393e46;
+}
